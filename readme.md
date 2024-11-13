@@ -6,9 +6,7 @@
 <li>Overview </li>
 
 <li>Dataset </li>
-<li>Methodology </li>
 
-<li>Results </li>
 <li>Contributing</li>
 <li>License </li>
 
@@ -26,22 +24,7 @@
 <li>Country: Customer’s country. </li>
 
 
-<h3>Methodology</h3>
-<li>Data Preprocessing: </li>
 
-<ol>Cleaned data by handling missing values and removing invalid entries. </ol>
-<ol>Filtered relevant columns and converted data types.</ol>
-<li>Feature Engineering with RFM Analysis:</li>
-
-<ol>Calculated Recency (days since last purchase), Frequency (total purchases), and Monetary (total spending) for each customer.<ol>
-<ol>Standardized RFM values for clustering.</ol>
-<li>Clustering: </li>
-
-<ol>Used K-means clustering to segment customers into distinct groups.</ol>
-<ol>Determined the optimal number of clusters using the Elbow Method and Silhouette Score.</ol>
-<li>Visualization:</li>
-
-<ol>Visualized clusters to interpret customer segments and analyze behaviors.</ol>
 
 
 
@@ -50,4 +33,8 @@
 
 <h3>License</h3>
 <li>This project is licensed under the MIT License.</li>
+
+</b><h3>Contact Details</h3></b>
+<li>Gmail : dotsnehapujari555@gmail.com</li>
+<li>Github : https://github.com/SnehaVPujari007</li>
 
