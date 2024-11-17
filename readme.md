@@ -91,7 +91,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
    git clone https://github.com/SnehaVPujari007/customer-segmentation.git
    cd customer-segmentation
 
- 
+
+ ```
 
 
 
