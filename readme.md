@@ -72,7 +72,6 @@ RFM analysis is a proven method to segment customers, focusing on:
 - **Frequency**: Measures customer loyalty and repeat purchase behavior.
 - **Monetary**: Assesses the customer’s total contribution to revenue.
 
-This methodology ensures actionable insights, enabling businesses to develop personalized marketing strategies and improve customer satisfaction.
 ---
 ## License
 
